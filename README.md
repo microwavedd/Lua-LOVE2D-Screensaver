@@ -1,5 +1,11 @@
 # Lua-LOVE2D-Screensaver
+
+![lua_symbol](https://github.com/microwavedd/Lua-LOVE2D-Screensaver/assets/143319861/d9695ffd-fb63-4784-a37f-2c13baa187b2)
+
+
 A simple screensaver made using lua and LOVE, both the game engine and the noun.
+
+It consists of a ball/Image floating around the screen, really simple.
 
 
 You need LOVE to make this work. To download it, download LOVE in https://love2d.org.
